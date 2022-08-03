@@ -1,0 +1,19 @@
+{
+  "interface": {
+    "Param": "Ethernet0/1",
+    "ConfigIf-Configuration": {
+      "description": {
+        "DescriptionBeTruncatedTo200Characters": "INTERFACE DE PRUEBA"
+      },
+      "ip": {
+        "address": {
+          "IPAddress": "10.10.10.10",
+          "IPSubnetMask": "255.255.255.0"
+        }
+      },
+      "duplex": {
+        "auto": ""
+      }
+    }
+  }
+}
